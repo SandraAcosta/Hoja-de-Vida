@@ -1,0 +1,12 @@
+body{
+color: #000;
+font-family: Georgia, "Times New Roman", serif;
+font-size: 1em;
+}
+h1 {
+    color: white;
+	background-color: navy;
+}
+p {
+	margin: 3em;
+}
